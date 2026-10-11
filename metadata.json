@@ -1,0 +1,7 @@
+{
+  "name": "استوديو كليب وأغاني طلال",
+  "description": "استوديو تفاعلي لتوليد وتصميم فيديو كليب مع شاشة عرض كلمات متزامنة، إيقاعات شرقية، وتسجيل وتصدير فيديو MP4 مباشر.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
